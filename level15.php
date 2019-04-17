@@ -4,8 +4,8 @@
 <script>
 window.alert = function()  
 {     
-confirm("哎哟 不错哦！");
- window.location.href="level17.php?arg01=a&arg02=b"; 
+confirm("ORZ ORZ ORZ 恭喜全部通过");
+ window.location.href="success.txt"; 
 }
 </script>
 <title>第15关</title>

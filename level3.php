@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level4.php?keyword=try harder!"; 
+ window.location.href="level4.php?keyword=宁静致远"; 
 }
 </script>
 <title>第3关</title>

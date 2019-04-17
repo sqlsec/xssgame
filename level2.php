@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level3.php?writing=wait"; 
+ window.location.href="level3.php?writing=苦尽甘来"; 
 }
 </script>
 <title>第2关</title>

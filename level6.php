@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level7.php?keyword=move up!"; 
+ window.location.href="level7.php?keyword=持之以恒"; 
 }
 </script>
 <title>第6关</title>
@@ -33,5 +33,3 @@ echo "<h3 align=center>payload的长度:".strlen($str6)."</h3>";
 ?>
 </body>
 </html>
-
-

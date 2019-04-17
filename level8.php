@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level9.php?keyword=not bad!"; 
+ window.location.href="level9.php?keyword=水滴石穿"; 
 }
 </script>
 <title>第8关</title>

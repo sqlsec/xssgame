@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.min.js"></script>
+<script src="https://chao.jsanhuan.cn/angular.min.js"></script>
 <script>
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level15.php?keyword=test"; 
+ window.location.href="level15.php?keyword=业精于勤"; 
 }
 </script>
 <title>第14关</title>

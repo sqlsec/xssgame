@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level10.php?keyword=well done!"; 
+ window.location.href="level10.php?keyword=持之以恒"; 
 }
 </script>
 <title>第9关</title>

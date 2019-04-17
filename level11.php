@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level12.php?keyword=good job!"; 
+ window.location.href="level12.php?keyword=破釜沉舟"; 
 }
 </script>
 <title>第11关</title>

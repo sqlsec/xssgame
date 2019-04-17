@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level6.php?keyword=break it out!"; 
+ window.location.href="level6.php?keyword=柳暗花明"; 
 }
 </script>
 <title>第5关</title>

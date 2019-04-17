@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level8.php?keyword=nice try!"; 
+ window.location.href="level8.php?keyword=笨鸟先飞"; 
 }
 </script>
 <title>第7关</title>

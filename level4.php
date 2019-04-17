@@ -5,7 +5,7 @@
 window.alert = function()  
 {     
 confirm("哎哟 不错哦！");
- window.location.href="level5.php?keyword=find a way out!"; 
+ window.location.href="level5.php?keyword=逆水行舟"; 
 }
 </script>
 <title>第4关</title>
